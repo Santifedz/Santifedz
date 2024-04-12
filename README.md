@@ -1,6 +1,6 @@
 -👋 Hi, I’m @Santifedz
  
--I’m an aspiring software engineer, always eager to learn new things!! 
+-I’m an software engineer, always eager to learn new things!! 
 
 -If you came here through my resume and want to see my projects, please ask me about my private repositories :)
 
